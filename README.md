@@ -7,6 +7,7 @@ Este projeto busca realizar uma análise descritiva sobre a situação das UBSFs
 ## Variáveis
 
 As variáveis utilizadas na análise são as seguintes:
+  - id_cnes: id de cada uma das UBSF
   - sradi: Situação em relação a adaptações para deficientes e idosos
   - srm: Situação em relação aos Mediacamentos
   - sre: Situação em relação aos equipamentos
